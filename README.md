@@ -1,6 +1,6 @@
 # Clone interface de loguin do Instagram
 
-Projeto feito para o desafio do Bootcamp HTML web Developer DIO.
+Projeto feito para o desafio do Bootcamp HTML Web Developer DIO.
 
 ### As tecnologias utilizadas foram:
 
